@@ -3,13 +3,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAMx_cesOAptM5xFndJlUzlXSeiK1Q3ScY",
-  authDomain: "to-do-crud-25a6b.firebaseapp.com",
-  projectId: "to-do-crud-25a6b",
-  storageBucket: "to-do-crud-25a6b.appspot.com",
-  messagingSenderId: "223968666444",
-  appId: "1:223968666444:web:c7c82f080ce66d4f7125e9",
-  measurementId: "G-H91RDH4L7Z"
+  apiKey: "AIzaSyCVcE9GYGrHTuzkDA4zl8brIgUHDkY5l-E",
+    authDomain: "crud-firebase-2f892.firebaseapp.com",
+    databaseURL: "https://crud-firebase-2f892-default-rtdb.firebaseio.com",
+    projectId: "crud-firebase-2f892",
+    storageBucket: "crud-firebase-2f892.appspot.com",
+    messagingSenderId: "854498088236",
+    appId: "1:854498088236:web:a7eb95c0e4ad5114bf4889"
 };
 
 const app = initializeApp(firebaseConfig);
