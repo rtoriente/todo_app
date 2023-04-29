@@ -3,7 +3,7 @@ import "./App.css";
 import React from "react";
 import Title from "./components/Title";
 import AddTodo from "./components/AddTodo";
-import Todo from "./components/Todo";
+import Todo from "./components/AddTodo";
 import {
   collection,
   query,
